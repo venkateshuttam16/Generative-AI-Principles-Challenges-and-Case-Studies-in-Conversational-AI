@@ -13,7 +13,7 @@ This chatbot project is part of an academic industry training report titled:
 🔸 **Author**: Venkatesh Uttam  
 🔸 **Semester**: VIII, 2024-2025  
 🔸 **University**: KLE Technological University, Hubballi  
-🔸 **Guide**: Mrs. Preeti Pilai  
+  
 
 ---
 
